@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🎮
 
-<!--
-**Vitorhugo24/Vitorhugo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é vitor hugo
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce entrar em contato comigo 📫
+
+  00001093345251sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/dA_F9sTs8CwAAAAC/sanji-luffy.gif)
